@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Sigmar+One);
+/* line 4, /Users/bcardiff/Work/Family/bren/desgraciadas/web/source/css/site.scss */
+.title h1 {
+  font-family: 'Sigmar One', cursive;
+  font-size: 3.5em;
+  text-align: center;
+  color: #f2f2f2;
+  text-shadow: 0px 3px 4px #333333; }
+
+/* line 14, /Users/bcardiff/Work/Family/bren/desgraciadas/web/source/css/site.scss */
+body {
+  background-color: #f2f2f2;
+  background-image: url("/img/background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat; }
