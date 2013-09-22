@@ -11,9 +11,29 @@
  }
 }
 
+@media (max-width: 700px) {
+  .title h1 {
+    font-size: 2em;
+  }
+}
+
 body {
   background-color: #f2f2f2;
   background-image:url('/img/background.jpg');
   background-size: 100%;
   background-repeat:no-repeat;
+}
+
+
+#cntdwn {
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: #f2f2f2;
+  text-shadow: 0px 3px 4px #333333;
+
+  &:after {
+    content: ' No te lo pierdas.';
+    white-space: nowrap;
+  }
 }
