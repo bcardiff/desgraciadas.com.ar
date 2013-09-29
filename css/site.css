@@ -39,3 +39,12 @@ body {
   #cntdwn:after {
     content: ' No te lo pierdas.';
     white-space: nowrap; }
+
+/* line 51, /Users/bcardiff/Work/Family/bren/desgraciadas/web/source/css/site.scss */
+a {
+  color: #f2f2f2;
+  text-shadow: 0px 3px 4px #333333;
+  text-decoration: none; }
+  /* line 55, /Users/bcardiff/Work/Family/bren/desgraciadas/web/source/css/site.scss */
+  a:hover {
+    color: #cbcbcb; }
